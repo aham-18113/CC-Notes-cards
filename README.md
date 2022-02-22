@@ -1,2 +1,1 @@
-# CC-Notes-cards
-All notes cards
+# All_cards
